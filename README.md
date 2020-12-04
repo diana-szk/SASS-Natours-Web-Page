@@ -1,15 +1,29 @@
 # SASS-Natours-Web-Page
 
-<h1>How it looks? </h1>
-  <h3>HOME PAGE</h3>
-  <p> - made with <strong> @keyframes animations <strong> </p>
-  <img src=https://im7.ezgif.com/tmp/ezgif-7-e8db6979d8f0.gif style="max-width:100%;">
-  
-  <h3>BENEFITS SECTION</h3>
-      <p> When the image it's hovered, it appears an outline effect and the image it's scaling-up, the other images scaling-down in the meantime. </p>  
-      <img src=https://im4.ezgif.com/tmp/ezgif-4-0f1fca306dda.gif style="max-width:100%;">
-      
-  <h3>FEATURES SECTION</h3>
-  <p> A grid with 4 boxes, each one scaling-up when we're hovering over. </p>  
-  <img src=https://im4.ezgif.com/tmp/ezgif-4-9f0ba9b68ec1.gif style="max-width:100%;">
+## How it's made?
 
++ BEM: Block, Element, Modifier Principle
++ SASS variables
++ Node-sass (npm)
++ Responsive Design 
++ Different tricks from CSS
+
+## How it looks?
+
+### Home Section
+
+- made with ```@keyframes``` animation
+
+<img src="https://media3.giphy.com/media/GjShpTmluiIfrqc453/giphy.gif">
+
+### Benefits Section
+
+- when the image it's hovered, it appears an outline effect and the image it's scaling-up, the other images scaling-down in the same time.
+
+<img src="https://media4.giphy.com/media/hbRZbedrJesjPq4bOm/giphy.gif">
+
+### Tour Section
+
+- A grid with 4 boxes, each one scaling-up when we're hovering over it.
+
+<img src="https://media1.giphy.com/media/QYBrepAWGIZRZtrdxg/giphy.gif">
