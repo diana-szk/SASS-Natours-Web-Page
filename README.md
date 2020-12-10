@@ -2,7 +2,7 @@
 
 ## How it's made?
 
-+ BEM: Block, Element, Modifier Principle
++ BEM: Block, Element, Modifier notation
 + SASS variables
 + Node-sass (npm)
 + Responsive Design 
