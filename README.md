@@ -1,5 +1,7 @@
 # SASS-Natours-Web-Page
 
+## [View project demo](http://natours-tours.c1.biz/)
+
 ## How it's made?
 
 + BEM: Block, Element, Modifier notation
