@@ -1,6 +1,6 @@
 # SASS-Natours-Web-Page
 
-## [View project demo](http://natours-tours.c1.biz/)
+## [View project demo](https://diana-szk.github.io/SASS-Website-/)
 
 ## How it's made?
 
